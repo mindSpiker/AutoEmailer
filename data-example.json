@@ -1,0 +1,21 @@
+{
+    "emailUser": "john@abc.net",
+    "emailPw": "<pw here>",
+    "sender": "John Shaw <john@abc.net>",
+    "cc": "Dawn Newcomer <treasurer@abc.org>",
+    "subject": "2025-2026 pledge statement from UU Church",
+    "message": "Please review your attached 2025-2026 pledge statement as of 3/10/2026. We depend on your support to accomplish our vision and mission in Houston.\n\nThanks for your support!\nTapestry Unitarian Universalist Church of Houston\nI am sending this at the request of the Treasurer, Dawn.",
+    "messageHTML": "<p>Please review your attached 2025-2026 pledge statement as of 3/10/2026. We depend on your support to accomplish our vision and mission in Houston.</p><p>Thanks for your support!<br>Unitarian Universalist Church<br>I am sending this at the request of the Treasurer, Dawn.</p>",
+    "pathToFiles": "../Files/",
+    "fileSuffix": ".pdf",
+    "recipients": [
+        {
+            "filePrefix": "Shaw",
+            "email": "john@abc.net"
+        },
+        {
+            "filePrefix": "Taylor",
+            "email": "Taylor@abc.net"
+        }
+    ]
+}
